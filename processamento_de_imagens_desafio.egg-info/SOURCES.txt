@@ -1,0 +1,14 @@
+README.md
+setup.py
+processamento_de_imagens_desafio-pvlo/__init__.py
+processamento_de_imagens_desafio-pvlo/processing/__init__.py
+processamento_de_imagens_desafio-pvlo/processing/combination.py
+processamento_de_imagens_desafio-pvlo/processing/transformation.py
+processamento_de_imagens_desafio-pvlo/utils/__init__.py
+processamento_de_imagens_desafio-pvlo/utils/io.py
+processamento_de_imagens_desafio-pvlo/utils/plot.py
+processamento_de_imagens_desafio.egg-info/PKG-INFO
+processamento_de_imagens_desafio.egg-info/SOURCES.txt
+processamento_de_imagens_desafio.egg-info/dependency_links.txt
+processamento_de_imagens_desafio.egg-info/requires.txt
+processamento_de_imagens_desafio.egg-info/top_level.txt
